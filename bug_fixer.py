@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-API_KEY = "sk-你的实际密钥"
+API_KEY = "sk-b03ee845ba714658bf9eb17b081a0803"
 BASE_URL = "https://api.deepseek.com"
 
 client = OpenAI(api_key=API_KEY, base_url=BASE_URL)
